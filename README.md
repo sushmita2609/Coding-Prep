@@ -25,7 +25,7 @@
    Input: 1 -2 1 0 5
           0
           
-   Output: -1
+   Output: Array doesnt have two elements with the given sum
    
    Explaination:(No valid pair exists.)
 
