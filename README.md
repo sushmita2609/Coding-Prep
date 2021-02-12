@@ -14,7 +14,7 @@
          str = 1abc23
     Output: 24
     
-Explanation: 1 and 23 are numbers in the string which is added to get the sum as 24.
+    Explanation: 1 and 23 are numbers in the string which is added to get the sum as 24.
 
 3. check for sum of pair in array
 
@@ -27,6 +27,6 @@ Explanation: 1 and 23 are numbers in the string which is added to get the sum as
           
    Output: -1
    
-   (No valid pair exists.)
+   Explaination:(No valid pair exists.)
 
 4.
