@@ -1,4 +1,4 @@
-def hasArrayTwoCandidates(Arr, arr_size, sum):     
+def checkArray(Arr, arr_size, sum):     
     Arr.sort() 
     l = 0
     r = arr_size-1
@@ -18,7 +18,7 @@ def hasArrayTwoCandidates(Arr, arr_size, sum):
 
 Arr = [1, 4, 45, 6, 10, -8]
 n = 16
-if (hasArrayTwoCandidates(Arr, len(Arr), n)):
+if (checkArray(Arr, len(Arr), n)):
     print("Array has two elements with the given sum")
 else:
     print("Array doesn't have two elements 
