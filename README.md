@@ -45,4 +45,12 @@
             target:   7
         
             o/p-  0 1    (3+4=7)
+            
+6. Merge array
+
+         input:  arr1= [1 3 5 7]
+         
+                 arr2= [0 2 6 8 9]
+         
+        output:  [0 1 2 3 5 6 7 8 9 ]
      
