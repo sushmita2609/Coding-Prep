@@ -60,3 +60,8 @@
                 4
                 7 3 4 6
          Output: 6 4 3 7
+         
+ 8. Reversing string without affecting the special cherecters
+         
+         Input: a?nm@6
+         Output: 6?mn@a
