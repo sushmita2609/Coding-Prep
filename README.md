@@ -65,3 +65,12 @@
          
          Input: a?nm@6
          Output: 6?mn@a
+       
+ 9. Rotate a Linked List
+         
+         Input:
+                N = 5
+                value= 2 4 7 8 9
+                k = 3
+         Output: 8 9 2 4 7
+         
