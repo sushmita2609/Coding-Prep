@@ -15,7 +15,7 @@ public class ReverseLinkList {
         }
     }
  
-    /* Function to reverse the linked list */
+ 
     Node reverse(Node node)
     {
         Node prev = null;
@@ -31,7 +31,7 @@ public class ReverseLinkList {
         return node;
     }
  
-    // prints content of double linked list
+ 
     void printList(Node node)
     {
         while (node != null) {
@@ -40,16 +40,16 @@ public class ReverseLinkList {
         }
     }
  
-    // Driver Code
+   
     public static void main(String[] args)
     {
         ReverseLinkList list = new ReverseLinkList();
-        list.head = new Node(85);
-        list.head.next = new Node(15);
-        list.head.next.next = new Node(4);
-        list.head.next.next.next = new Node(20);
+        list.head = new Node(6);
+        list.head.next = new Node(7);
+        list.head.next.next = new Node(11);
+        list.head.next.next.next = new Node(31);
  
-        System.out.println("Given Linked list");
+        System.out.println("Given");
         list.printList(head);
         head = list.reverse(head);
         System.out.println("");
