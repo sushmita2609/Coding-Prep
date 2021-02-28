@@ -74,3 +74,13 @@
                 k = 3
          Output: 8 9 2 4 7
          
+ 10. Sum of array
+ 
+         Input:3
+                4
+                8
+                9
+         Output:
+                21
+                
+         
