@@ -82,5 +82,12 @@
                 9
          Output:
                 21
+            
+11. check string is a Palindrome or not
+
+        Input: mama
+        Output: not a palindrome
+        
+             
                 
          
