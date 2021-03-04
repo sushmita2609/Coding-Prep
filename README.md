@@ -88,6 +88,10 @@
         Input: mama
         Output: not a palindrome
         
-             
+12. Bubble sort (optimal solution)
+        
+         Input: 89 40 21 42  10  60
+         output: 10 21 20 40 42 60 89
+         
                 
          
