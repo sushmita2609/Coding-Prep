@@ -93,5 +93,10 @@
          Input: 89 40 21 42  10  60
          output: 10 21 20 40 42 60 89
          
+13. printing the no's in same line without space
+         
+         Input: 5
+         Output: 12345
+  
                 
          
