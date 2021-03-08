@@ -98,5 +98,10 @@
          Input: 5
          Output: 12345
   
-                
+14. Print all the substring which are palindrome within a given string
+
+        Input: clariebobgmama
+        Output: bob
+                mama
+
          
