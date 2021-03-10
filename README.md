@@ -103,5 +103,12 @@
         Input: clariebobgmama
         Output: bob
                 mama
-15.
+
+15. Counting no of pairs
+
+         Input: 5
+               10 20 50 20 10
+         output: 2
+        
+
          
