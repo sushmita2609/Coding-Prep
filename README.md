@@ -110,5 +110,13 @@
                10 20 50 20 10
          output: 2
         
+16. Book problem
 
+          Input: 6 
+                 3
+          Output: 1
+          explaination:  [ |1] [2|3] [4|5] [6|]
+                         if started from 1 then it will take only 1 move to reach to 3
+                         if started from 6 then it will take 2 moves to reach 3
+                         so, minimum moves required are 1 (started from 1)
          
