@@ -119,4 +119,20 @@
                          if started from 1 then it will take only 1 move to reach to 3
                          if started from 6 then it will take 2 moves to reach 3
                          so, minimum moves required are 1 (started from 1)
+      
+17. Cats and a mouse
+
+        x: Cat A's position
+        y: Cat B's position
+        z: Mouse C's position
+        Input :
+                     2
+                     1 2 5
+                     1 3 2
+        Output:   Cat B
+                  Mouse C
+        explaination: The positions of the cats and mouse are shown below:
+                      A--B--C
+                      1  2  5
+                     Cat B  will catch the mouse first, so we print Cat B on a new line.
          
