@@ -136,3 +136,11 @@
                       1  2  5
                      Cat B  will catch the mouse first, so we print Cat B on a new line.
          
+18. Height of binary tree
+
+              input=   10
+                       /\
+                     20   11
+                     /\    \
+                    8  1    3
+               output: 3
