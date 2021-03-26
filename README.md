@@ -144,3 +144,13 @@
                      /\    \
                     8  1    3
                output: 3
+
+19. No of paths in matrix
+
+              Input: 3 3
+              output: 6
+              explaination: 3*3 matrix
+                            A B C
+                            D E F
+                            G H I
+                            The possible paths which exists to reach 'I' from 'A' following above conditions are as follows:ABCFI, ABEHI, ADGHI, ADEFI, ADEHI, ABEFI
