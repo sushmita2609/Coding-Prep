@@ -154,3 +154,11 @@
                             D E F
                             G H I
                             The possible paths which exists to reach 'I' from 'A' following above conditions are as follows:ABCFI, ABEHI, ADGHI, ADEFI, ADEHI, ABEFI
+                            
+ 20. Piggy Bank Problem
+ 
+              Ramu has opened his piggy bank to but some gift. There are different values of currencies present in the piggy bank. Ramu wants to make sure that he is have minimum change while purchasing the gift. Print the lowest amount that wont be possible with the coins present.
+              Input: 3
+                     1 2 5
+              Output: 4
+              explaination: all possible values with given coins are: 1, 2, 3 (1+2), 5, 6 (1+6), 7 (2+5), 8 (1+2+5).  so, here 4 is the output
