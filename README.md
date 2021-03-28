@@ -162,3 +162,8 @@
                      1 2 5
               Output: 4
               explaination: all possible values with given coins are: 1, 2, 3 (1+2), 5, 6 (1+6), 7 (2+5), 8 (1+2+5).  so, here 4 is the output
+ 
+ 21. removing vowel from string:
+ 
+              Input: geeksforgeeks
+              Output: gksfrgks
