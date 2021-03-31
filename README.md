@@ -167,3 +167,15 @@
  
               Input: geeksforgeeks
               Output: gksfrgks
+              
+22. Left view Binary tree
+
+              Input:   10
+                       /\
+                     12  15
+                     /\    \
+                    7  11   5
+                             \
+                              3
+              Output: 10 12 7 3
+23. 
