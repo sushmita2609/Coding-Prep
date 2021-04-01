@@ -178,4 +178,8 @@
                              \
                               3
               Output: 10 12 7 3
-23. 
+23. Check if a number is power of another number
+
+              Input:
+                     X = 2, Y = 8
+              Output:  1
