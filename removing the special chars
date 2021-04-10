@@ -1,0 +1,8 @@
+bad_chars = ['#', '^', '!', "@"]
+test_string = "I kn@W th@ rig#t t#i^g !
+
+print ("Original String : " + test_string)
+for i in bad_chars :
+    test_string = test_string.replace(i, '')
+ 
+print ("Resultant list is : " + str(test_string))
