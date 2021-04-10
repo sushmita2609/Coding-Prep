@@ -189,3 +189,8 @@ Given arrival and departure times of all trains that reach a railway station. Fi
                Input: arr[] = {0900, 0940, 0950, 1100, 1500, 1800}
                       dep[] = {0910, 1200, 1120, 1130, 1900, 2000}
                Output:  3
+               
+ 25. removing special characters
+ 
+               Input: I kn@W th3 rig#t t#i^g !
+               Output: I knw th rigt tig 
