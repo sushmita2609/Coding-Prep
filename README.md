@@ -199,3 +199,8 @@ Given arrival and departure times of all trains that reach a railway station. Fi
 
                Input: Hello, how are you
                Output: uoy era woh ,olleH
+
+27. Sliding window protocol
+
+              Input: 2,5,6,11,7,2,3,9              k=3
+              Output: 24
