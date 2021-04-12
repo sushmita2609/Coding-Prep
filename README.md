@@ -194,3 +194,8 @@ Given arrival and departure times of all trains that reach a railway station. Fi
  
                Input: I kn@W th3 rig#t t#i^g !
                Output: I knw th rigt tig 
+
+26. reverse string without using inbuilt function
+
+               Input: Hello, how are you
+               Output: uoy era woh ,olleH
