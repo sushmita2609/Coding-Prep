@@ -204,3 +204,9 @@ Given arrival and departure times of all trains that reach a railway station. Fi
 
               Input: 2,5,6,11,7,2,3,9              k=3
               Output: 24
+              
+28. Given two arrays as argument of method, your method should return true if one is subset of another, otherwise false.
+
+              Input: [12,10,9,76,29,30]
+                     [12,9,30,21]
+              Output: False
