@@ -210,3 +210,13 @@ Given arrival and departure times of all trains that reach a railway station. Fi
               Input: [12,10,9,76,29,30]
                      [12,9,30,21]
               Output: False
+              
+              
+29. Rotate a matrix by 90'
+
+              Input: 1 2 3 
+                     4 5 6
+                     7 8 9
+              Output: 7 4 1 
+                      8 5 2
+                      9 6 3
