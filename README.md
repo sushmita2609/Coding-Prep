@@ -220,3 +220,9 @@ Given arrival and departure times of all trains that reach a railway station. Fi
               Output: 7 4 1 
                       8 5 2
                       9 6 3
+                      
+30. validate an IP address
+
+              Input: 175.81.35.09
+              Output: Invalid
+              Output:
