@@ -225,4 +225,12 @@ Given arrival and departure times of all trains that reach a railway station. Fi
 
               Input: 175.81.35.09
               Output: Invalid
-              Output:
+              
+              
+31. Kth smallest element
+
+              Input: value for k: 4
+                     list size: 8
+                     enter elements: 23 5 18 31 4 43 2 11
+              Output: kth smallest no is 11
+              
