@@ -234,3 +234,9 @@ Given arrival and departure times of all trains that reach a railway station. Fi
                      enter elements: 23 5 18 31 4 43 2 11
               Output: kth smallest no is 11
               
+              
+32.  To validate if string is binary or not
+
+              Input:  1010100         1562544       ss8980
+              Output: valid           Invalid       Invalid
+              
