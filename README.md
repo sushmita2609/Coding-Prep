@@ -240,3 +240,23 @@ Given arrival and departure times of all trains that reach a railway station. Fi
               Input:  1010100         1562544       ss8980
               Output: valid           Invalid       Invalid
               
+              
+33. Number guessing game
+
+              ===welcome to Guessing game===
+              Enter Lower bound: 6
+              Enter Upper bound: 90
+
+	       You've only  6  chances to guess the integer!
+
+              Guess a number:- 45
+              You guessed too small!
+              Guess a number:- 35
+              You guessed too small!
+              Guess a number:- 3
+              You guessed too small!
+              Guess a number:- 43
+   
+	       Congratulations you did it in 3 tries.
+
+              
