@@ -1,0 +1,10 @@
+def reverse_words_and_swapcases(string):
+    #Swapping the case
+    string = string.swapcase()
+    words = string.split()
+    
+    ## reversing the words using reversed() function
+    words = list(reversed(words))
+    
+    ## joining the words and printing
+    return " ".join(words)
